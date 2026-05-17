@@ -1,13 +1,6 @@
 # Aagosh Raj Srivastava
 
 **Software Engineer • System Designer • Real-Time Systems Architect**
-
-```
-📧 aagosh0000@gmail.com | 📱 +91-8432006005 | 🔗 github.com/AagoshRajSri
-```
-
----
-
 ## 🎯 Who I Am
 
 I build systems that scale, interfaces that delight, and architectures that survive real-world chaos. I don't believe in shortcuts—every line of code serves a purpose, every millisecond matters.
