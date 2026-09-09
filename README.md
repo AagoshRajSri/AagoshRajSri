@@ -211,9 +211,9 @@ the seams showing.
 <!-- ============ END CREDITS ============ -->
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=d4af37" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email"/></a>
-<a href="https://aagoshrajsri.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=d4af37" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/aagoshrajsrivastava/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=d4af37" alt="LinkedIn"/></a>
+<a href="mailto:aagoshrajsrivastava10@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email"/></a>
+<a href="https://aagosh-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=d4af37" alt="Portfolio"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:1a1a2e,100:000000&height=140&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
