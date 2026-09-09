@@ -201,10 +201,10 @@ the seams showing.
 <!-- ============ CURRENT TIMELINE — growth signal, coachability ============ -->
 ### CURRENT TIMELINE
 
-- 🔭 Working on: *[edit me — what's live right now]*
-- 📚 Learning: *[edit me — a technology, not a buzzword]*
-- 🤝 Open to: *[edit me — e.g. "full-stack or AI-integration roles"]*
-- ⚡ Fun fact: *[edit me — one sentence, keep it human]*
+- 🔭 Working on: *Classified. Ask again once it ships.*
+- 📚 Learning: *A technology I'm not ready to name yet.*
+- 🤝 Open to: *SDE, AI Engineering, and Full-Stack Development roles*
+- ⚡ Fun fact: *Runs on tea. Builds things, then breaks them on purpose to see how they fail.*
 
 <br/>
 
