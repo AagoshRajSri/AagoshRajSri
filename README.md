@@ -39,12 +39,12 @@
 <br/>
 
 <!-- ============ VOICEOVER / MISSION BRIEFING ============ -->
-> *"Some engineers work in one layer of the stack. I move between all of them — and I don't lose time doing it."*
+> *"Some engineers work in one layer of the stack. I move between all of them ~ and I don't lose time doing it."*
 
 I'm a full-stack engineer who builds secure, performant, UX-first products,
 and who's equally at home wiring a WebSocket pipeline, integrating an
 inference API, or polishing a themed React front end down to the pixel.
-I don't specialize in one layer — I specialize in **holding the whole
+I don't specialize in one layer ~ I specialize in **holding the whole
 structure together while it's still being built**, switching modes without
 the seams showing.
 
